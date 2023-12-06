@@ -9,6 +9,11 @@ Specifically, the folder 'prompt_engineering' includes how we use OpenAI's API t
 
 Meanwhile, data couldn't be shared so the folder 'data' is empty. Hope you understand that!
 
+## Instructions
+
+## Dependencies
+environment/requirements.txt
+
 ## Teammates
 
 Mingxuan(Curly) Wu: mw4012@nyu.edu
